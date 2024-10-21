@@ -1,0 +1,36 @@
+{
+  "menuItem": [
+    {
+      "name": "Pasta",
+      "image": "/src/assets/Pasta.jpg"
+    },
+    {
+      "name": "Roll",
+      "image": "/src/assets/Rolls.jpg"
+    },
+    {
+      "name": "Sandwich",
+      "image": "/src/assets/Sandwich.jpg"
+    },
+    {
+      "name": "Cake",
+      "image": "/src/assets/Cake.jpg"
+    },
+    {
+      "name": "Pizza",
+      "image": "/src/assets/Pizza.jpg"
+    },
+    {
+      "name": "Noodles",
+      "image": "/src/assets/Noodles.jpg"
+    },
+    {
+      "name": "Chicken",
+      "image": "/src/assets/Chicken.jpg"
+    },
+    {
+      "name": "Rice",
+      "image": "/src/assets/Rice.jpg"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "foodItems": [
+    {
+      "id": 29,
+      "name": "Black Forest Cake",
+      "category": "Dessert",
+      "price": 429.00,
+      "description": "Classic black forest cake with layers of chocolate sponge, and whipped cream.",
+      "rating": 4.7,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/BlackCake.jpg",
+      "tags": ["dessert", "cake", "chocolate"]
+    },
+    {
+      "id": 9,
+      "name": "Veggie Spring Roll",
+      "category": "Chinese",
+      "price": 149.00,
+      "description": "Crispy spring rolls filled with fresh vegetables and herbs.",
+      "rating": 4.0,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/VeggieSprinRoll.jpg",
+      "tags": ["vegetarian", "roll", "snack"]
+    },
+    {
+      "id": 3,
+      "name": "Veggie Delight Pizza",
+      "category": "Italian",
+      "price": 689.50,
+      "description": "Loaded with fresh veggies like bell peppers, olives, and onions.",
+      "rating": 4.4,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/VeggieDelightPizza.jpg",
+      "tags": ["vegetarian", "healthy", "pizza"]
+    },
+    {
+      "id": 4,
+      "name": "BBQ Chicken Pizza",
+      "category": "Italian",
+      "price": 899.75,
+      "description": "Smoky BBQ chicken with a tangy sauce and cheese.",
+      "rating": 4.6,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/BBQChickenPizza.jpg",
+      "tags": ["non-vegetarian", "spicy", "pizza"]
+    },
+    {
+      "id": 6,
+      "name": "Chicken Roll",
+      "category": "Indian",
+      "price": 249.00,
+      "description": "Spicy chicken roll wrapped in a soft paratha.",
+      "rating": 4.3,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ChickenRoll.jpg",
+      "tags": ["non-vegetarian", "spicy", "roll"]
+    },
+    {
+      "id": 7,
+      "name": "Paneer Roll",
+      "category": "Indian",
+      "price": 199.00,
+      "description": "Delicious paneer roll with tangy chutney and veggies.",
+      "rating": 4.2,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/PaneerRoll.jpg",
+      "tags": ["vegetarian", "cheese", "roll"]
+    },
+    {
+      "id": 8,
+      "name": "Egg Roll",
+      "category": "Indian",
+      "price": 179.00,
+      "description": "Classic egg roll with a blend of spices and veggies wrapped in a paratha.",
+      "rating": 4.1,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/EggRoll.jpg",
+      "tags": ["non-vegetarian", "roll", "quick-bite"]
+    },
+    {
+      "id": 11,
+      "name": "Spaghetti Bolognese",
+      "category": "Pasta",
+      "price": 899.99,
+      "description": "Rich Bolognese sauce served with al dente spaghetti.",
+      "rating": 4.5,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/SpaghettiBolognese.jpg",
+      "tags": ["pasta", "meat", "Italian"]
+    },
+    {
+      "id": 12,
+      "name": "Fettuccine Alfredo",
+      "category": "Pasta",
+      "price": 849.00,
+      "description": "Creamy Alfredo sauce with fettuccine pasta.",
+      "rating": 4.6,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/FettuccineAlfredo.jpg",
+      "tags": ["pasta", "creamy", "vegetarian"]
+    },
+    {
+      "id": 14,
+      "name": "Classic BLT Sandwich",
+      "category": "Sandwich",
+      "price": 499.00,
+      "description": "Bacon, lettuce, and tomato sandwich with a creamy spread.",
+      "rating": 4.2,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ClassicSandwich.jpg",
+      "tags": ["sandwich", "non-vegetarian", "quick-bite"]
+    },
+    {
+      "id": 15,
+      "name": "Grilled Sandwich",
+      "category": "Sandwich",
+      "price": 349.00,
+      "description": "Golden-brown grilled cheese with a gooey center.",
+      "rating": 4.5,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/GrilledSandwich.jpg",
+      "tags": ["sandwich", "vegetarian", "cheese"]
+    },
+    {
+      "id": 5,
+      "name": "Cheese Burst Pizza",
+      "category": "Italian",
+      "price": 799.00,
+      "description": "Double-layered cheese burst pizza with extra cheese.",
+      "rating": 4.8,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/CheeseBurstPizza.jpg",
+      "tags": ["vegetarian", "cheese", "pizza"]
+    },
+    {
+      "id": 27,
+      "name": "Cheese cake",
+      "category": "Dessert",
+      "price": 349.00,
+      "description": "Creamy cheesecake with a buttery graham cracker crust.",
+      "rating": 4.7,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/Cheesecake.jpg",
+      "tags": ["dessert", "cheese", "cake"]
+    },
+    {
+      "id": 17,
+      "name": "Stir-Fried Noodles",
+      "category": "Noodles",
+      "price": 599.00,
+      "description": "Stir-fried noodles with marinated chicken and vegetables.",
+      "rating": 4.5,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/Stir-FrieChickenNoodles.jpg",
+      "tags": ["noodles", "non-vegetarian", "spicy"]
+    },
+    {
+      "id": 18,
+      "name": "Vegetable Noodles",
+      "category": "Noodles",
+      "price": 499.00,
+      "description": "Chinese-style noodles with stir-fried vegetables.",
+      "rating": 4.4,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/VegetableHakkaNoodles.jpg",
+      "tags": ["noodles", "vegetarian", "spicy"]
+    },
+    {
+      "id": 20,
+      "name": "Butter Chicken",
+      "category": "Chicken",
+      "price": 699.00,
+      "description": "Tender chicken cooked in rich butter sauce and spices.",
+      "rating": 4.7,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ButterChicken.jpg",
+      "tags": ["chicken", "Indian", "spicy"]
+    },
+    {
+      "id": 21,
+      "name": "Grilled Chicken Breast",
+      "category": "Chicken",
+      "price": 799.00,
+      "description": "Perfectly grilled chicken breast served with a side salad.",
+      "rating": 4.5,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/GrilledChickenBreast.jpg",
+      "tags": ["chicken", "healthy", "grilled"]
+    },
+    {
+      "id": 22,
+      "name": "Chicken Tikka Masala",
+      "category": "Chicken",
+      "price": 749.00,
+      "description": "Spicy chicken tikka in a creamy tomato-based curry.",
+      "rating": 4.6,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ChickenMasala.jpg",
+      "tags": ["chicken", "Indian", "spicy"]
+    },
+    {
+      "id": 23,
+      "name": "Fried Rice",
+      "category": "Rice",
+      "price": 499.00,
+      "description": "Stir-fried rice with vegetables and a hint of soy sauce.",
+      "rating": 4.3,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/FriedRice.jpg",
+      "tags": ["rice", "vegetarian", "Chinese"]
+    },
+    {
+      "id": 19,
+      "name": "Seafood Ramen",
+      "category": "Noodles",
+      "price": 799.00,
+      "description": "Rich seafood broth with ramen noodles and fresh herbs.",
+      "rating": 4.6,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/SeafoodRamen.jpg",
+      "tags": ["noodles", "seafood", "Japanese"]
+    },
+    {
+      "id": 24,
+      "name": "Chicken Biryani",
+      "category": "Rice",
+      "price": 699.00,
+      "description": "Spiced rice layered with marinated chicken and saffron.",
+      "rating": 4.8,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ChickenBiryani.jpg",
+      "tags": ["rice", "chicken", "Indian"]
+    },
+    {
+      "id": 25,
+      "name": "Vegetable Biryani",
+      "category": "Rice",
+      "price": 599.00,
+      "description": "Fragrant basmati rice cooked with mixed vegetables and spices.",
+      "rating": 4.5,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/VegetableBiryani.jpg",
+      "tags": ["rice", "vegetarian", "Indian"]
+    },
+    {
+      "id": 26,
+      "name": "Chocolate Lava Cake",
+      "category": "Dessert",
+      "price": 399.00,
+      "description": "Warm chocolate cake with a rich, gooey center.",
+      "rating": 4.8,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ChocolateLavaCake.jpeg",
+      "tags": ["chocolate", "dessert", "cake"]
+    },
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "Italian",
+      "price": 747.17,
+      "description": "Classic Margherita pizza with fresh mozzarella and basil.",
+      "rating": 4.5,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/MargheritaPizza.jpg",
+      "tags": ["vegetarian", "cheese", "pizza"]
+    },
+    {
+      "id": 28,
+      "name": "Red Velvet Cake",
+      "category": "Dessert",
+      "price": 399.00,
+      "description": "Moist red velvet cake with cream cheese frosting.",
+      "rating": 4.6,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/RedVelvetCake.jpeg",
+      "tags": ["dessert", "cake", "red velvet"]
+    },
+    {
+      "id": 16,
+      "name": "Caesar Sandwich",
+      "category": "Sandwich",
+      "price": 529.00,
+      "description": "Grilled chicken with Caesar dressing in a toasted sandwich.",
+      "rating": 4.3,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/ChickenCaesarSandwich.jpg",
+      "tags": ["sandwich", "chicken", "non-vegetarian"]
+    },
+    {
+      "id": 13,
+      "name": "Penne Arrabbiata",
+      "category": "Pasta",
+      "price": 749.00,
+      "description": "Spicy tomato-based sauce with penne pasta.",
+      "rating": 4.4,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/PenneArrabbiata.jpg",
+      "tags": ["pasta", "spicy", "vegetarian"]
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "category": "Italian",
+      "price": 849.99,
+      "description": "Pepperoni pizza with a crispy crust and melted cheese.",
+      "rating": 4.7,
+      "availability": true,
+      "image": "/src/component/FoodItem/fooditems/PepperoniPizza.jpg",
+      "tags": ["non-vegetarian", "spicy", "pizza"]
+    }
+  ]
+}
